@@ -1,0 +1,20 @@
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.exe
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.deps.json
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.runtimeconfig.json
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.runtimeconfig.dev.json
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.dll
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\ref\Projekt 61887.dll
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\bin\Debug\net5.0-windows\Projekt 61887.pdb
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.csprojAssemblyReference.cache
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt_61887.Form1.resources
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.csproj.GenerateResource.cache
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.AssemblyInfoInputs.cache
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.AssemblyInfo.cs
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.csproj.CoreCompileInputs.cache
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.dll
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\ref\Projekt 61887.dll
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.pdb
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt 61887.genruntimeconfig.cache
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt_61887.Properties.Resources.resources
+C:\Users\Bonczi\Desktop\projekt programowanie\Projekt 61887\Projekt 61887\obj\Debug\net5.0-windows\Projekt_61887.Form2.resources

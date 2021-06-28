@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projekt 61887/1.0.0": {
+        "runtime": {
+          "Projekt 61887.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt 61887/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
